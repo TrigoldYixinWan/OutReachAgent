@@ -115,3 +115,20 @@ frontend/
 ## Environment Variables
 
 See `.env.example` files in backend/ and frontend/ directories for required variables.
+
+## Demo for core functionalities
+### 1. Parsing Resume into formalized Profile Info
+<img width="2550" height="1343" alt="Screenshot 2026-02-03 193915" src="https://github.com/user-attachments/assets/4a47ef91-ae5a-4f5d-8136-9d4b6086b7bd" />
+<img width="2557" height="1341" alt="Screenshot 2026-02-03 193936" src="https://github.com/user-attachments/assets/e2ae47fe-32ad-48c2-8492-8068eacb084d" />
+
+### 2. Searching recent uploaded job position and relevant HRs/insiders 
+<img width="2553" height="1341" alt="Screenshot 2026-02-03 194010" src="https://github.com/user-attachments/assets/f9c837ae-5a46-4e4b-a57d-5aea9899169a" />
+<img width="2549" height="1340" alt="Screenshot 2026-02-03 194035" src="https://github.com/user-attachments/assets/e90e3013-8582-4fe3-aa8f-56e9797a7f59" />
+
+### 3. Auto-posish the Email according to your profile
+<img width="2547" height="1330" alt="Screenshot 2026-02-03 221622" src="https://github.com/user-attachments/assets/f5707fa0-e31e-472b-a7fc-fd156a33bc54" />
+<img width="2539" height="1339" alt="Screenshot 2026-02-03 221930" src="https://github.com/user-attachments/assets/2289dec9-4a79-45d2-a9cd-8c70f0a83376" />
+
+
+
+
